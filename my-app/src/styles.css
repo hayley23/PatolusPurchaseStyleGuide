@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+
+/*Base style*/
+@import "main.css";
+
+/*Components*/
+@import "app/app.component.css";
+
+
+
+
